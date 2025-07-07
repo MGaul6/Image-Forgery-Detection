@@ -46,7 +46,7 @@ We use the **CASIA v2.0 Tampering Dataset**, which contains:
 
 ### 1. 🔁 Clone the repository
 
-git clone https://github.com/yourusername/image-forgery-detection.git
+git clone https://github.com/MGaul6/image-forgery-detection.git
 cd image-forgery-detection
 ```
 
