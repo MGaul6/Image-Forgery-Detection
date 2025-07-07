@@ -1,4 +1,3 @@
-# Image-Forgery-Detection
 # 🕵️‍♀️ Image Forgery Detection using ELA and CNN
 
 This project detects whether an image is **real** or **tampered** using **Error Level Analysis (ELA)** and a **Convolutional Neural Network (CNN)**.
@@ -67,22 +66,37 @@ pip install -r requirements.txt
 
 ```
 image-forgery-detection/
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── model/
+
 │   └── model_casia_run1.h5
+
 ├── data/
+
 │   ├── sample_real.jpg
+
 │   └── sample_fake.jpg
+
 ├── src/
 │   ├── train_model.py
+
 │   ├── inference.py
+
 │   ├── utils.py
+
 │   └── ela_converter.py
+
 ├── output/
 │   ├── accuracy_loss_plot.png
+
 │   └── confusion_matrix.png
+
 └── notebook/
+
     └── image_forgery_detection.ipynb
 ```
 
