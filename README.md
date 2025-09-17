@@ -26,15 +26,6 @@ You can view and run the full training notebook here:
 
 ---
 
-## 📷 Screenshots  
-
-### Example: ELA Conversion  
-![ELA Example](./output/ela_example.png)  
-
-### Example: Prediction Results  
-![Prediction Example](./output/prediction_example.png)  
-
----
 
 ## ⚙️ Tech Stack  
 - **Python**  
@@ -45,3 +36,11 @@ You can view and run the full training notebook here:
 ---
 
 ## 📂 Project Structure  
+image-forgery-detection/
+│── data/ 
+│── model/
+│── notebook/
+│── output/ 
+│── src/
+│── README.md
+│── requirements.txt
